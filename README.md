@@ -37,9 +37,6 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=Anonymous-mudit&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Anonymous-mudit's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Anonymous-mudit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mudit Bhardwaj's GitHub Trophies" />
-</p>
 
 
 ## 🛠️ Languages & Tools
